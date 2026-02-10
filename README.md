@@ -39,8 +39,8 @@ I’m currently seeking **entry-level Data Analyst / Data Scientist roles** wher
 
 ## 💡 Fun Fact 
 
-I am an avid gym rat
-I enjoy traveling as much as i can
-I love trying new food
+- I am an avid gym rat
+- I enjoy traveling as much as i can
+- I love trying new food
 
 
